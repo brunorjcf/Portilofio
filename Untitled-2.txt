@@ -1,0 +1,37 @@
+<section id="serviços" class="serviços">
+    <div class="container">
+        <div class="titulo-cabeçalho">
+            <h2>Meus Negócios 👔🕺🏿</h2>
+            <p>
+            Vou ajudar a criar projetos de alta disponibilidade, experiência para o
+            usuário finial com design criativo.
+            </p>
+        </div>
+        <div class="serviço-terceiros">
+            <div class="item-terceiro">
+                <i class="fa fa-code" aria-hidden="true"></i>
+                <h2>Desenvolvimento Web 📱💻</h2>
+                <p>HTML, CSS(Bootstrap).JavaScript(Jr).
+                    Phpmyadmin(SQL)?.Tenho
+                    experiência ampla nas áreas.
+                </p>
+            </div>
+            <div class="item-terceiro">
+                <i class="fa fa-mobile" aria-hidden="true"></i>
+                <h2>Design Responsível 🖋</h2>
+                <p>Em 2020, você não pode entrar online sem ter um site responsivo móvel.
+                    Deixe-me cuidar disso para você!🥰
+                </p>
+            </div>
+            <div class="item-terceiro">
+                <i class="fa fa-file-code-o" aria-hidden="true"></i>
+                <h2>PSD para HTML 🖱⌨</h2>
+                <p>Se você já tem um design no photoshop, Affinity Design ou
+                    em qualquer outro formato. Eu posso converter do zero
+                    em HTML perfeito, CSS, Web JS.
+                </p>
+            </div>
+        </div>
+    </div>
+    <hr />
+</section><!--serviços-->

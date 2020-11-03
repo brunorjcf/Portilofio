@@ -1,0 +1,15 @@
+<div class="container">
+    <p>
+       <a href="#"><i class="fas fa-envelope-open"></i> Brunorjcf@gmail.com</a>
+    </p>
+    <p>
+       <a href="https://www.facebook.com/bruno.s.santos.RJ" target="_blank"><i class="fab fa-facebook"></i> Facebook</i></a>
+    </p>
+    <p>
+       <a href="https://github.com/brunorjcf" target="_blank"><i class="fab fa-dev"> Dev</i></a>
+    </p>
+    <p>
+       <a href="https://www.linkedin.com/in/bruno-santos-a658a486/" target="_blank"> <i class="fab fa-linkedin"> Linkedin</i></a>
+    </p>
+</div>
+<hr />
